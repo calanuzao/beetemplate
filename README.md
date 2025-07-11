@@ -45,4 +45,4 @@ This template should work on all platforms supported by JUCE (if it's not, pleas
     ├── README.md
     └── test
         ├── CMakeLists.txt
-    └── source```
+    └── source
